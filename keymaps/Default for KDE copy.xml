@@ -1,0 +1,16 @@
+<keymap version="1" name="Default for KDE copy" parent="Default for KDE">
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+</keymap>
