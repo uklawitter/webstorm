@@ -1,5 +1,7 @@
 <keymap version="1" name="Default for KDE copy 0" parent="Default for KDE">
-  <action id="GotoFile" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift alt n" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
@@ -18,4 +20,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="tasks.goto" />
 </keymap>
